@@ -1,3 +1,0 @@
-<launch>
-<node pkg="obstacle_detection" type="obstacle_detector_yolo_msg.py" name="obstacle_detector_yolo_msg"/>
-</launch>
